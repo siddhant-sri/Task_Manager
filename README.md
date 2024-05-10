@@ -91,7 +91,7 @@ This project is a task manager application that allows users to register, log in
 
 ### Demo Video
 
-A short demo video showcasing the functionality of the application can be found [here](https://youtube.com/your-demo-video-url).
+A short demo video showcasing the functionality of the application can be found [here](https://www.awesomescreenshot.com/video/27554514?key=74f57812a5634038a03c5fa9fc1bf009).
 
 ### Project Structure
 
