@@ -80,16 +80,14 @@ This project is a task manager application that allows users to register, log in
 
 - **POST /registration**: Register a new user.
 - **POST /login**: Log in an existing user.
-- **GET /tasks**: Get all tasks for the
+- **GET /tasks**: Get all tasks for the user.
+- **PUT /tasks**: Update the tasks.
+- **POST /tasks**: Create the task for the user.
+- **DELETE /tasks**: Delete the task.
 
-Sure, here's the continuation of the README:
 
 
 ## Additional Information
-
-### Live Demo
-
-A live demo of the application is hosted on [Heroku](https://www.heroku.com/) at [your-app-url](https://your-app-url.herokuapp.com).
 
 ### Demo Video
 
@@ -105,4 +103,8 @@ The project follows a modular structure with separate directories for the fronte
 ### Dependencies
 
 Dependencies for both frontend and backend are listed in their respective `package.json` files. Ensure you have Node.js installed on your machine to run the project.
+
+### Screenshots
+![image](https://github.com/siddhant-sri/w3Villa_Task_Manager/assets/63922624/fb94913e-b84f-44b8-b8e8-09d89ac49301)
+
 
