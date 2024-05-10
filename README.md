@@ -107,4 +107,6 @@ Dependencies for both frontend and backend are listed in their respective `packa
 ### Screenshots
 ![image](https://github.com/siddhant-sri/w3Villa_Task_Manager/assets/63922624/fb94913e-b84f-44b8-b8e8-09d89ac49301)
 
+![image](https://github.com/siddhant-sri/w3Villa_Task_Manager/assets/63922624/17228c57-08ac-4637-93af-cc6a99d6a6fe)
+
 
